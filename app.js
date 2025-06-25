@@ -1,0 +1,1 @@
+Conteúdo de exemplo do arquivo app.js na pasta frontend.
