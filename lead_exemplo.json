@@ -1,0 +1,10 @@
+
+{
+  "id": "LEAD001",
+  "nome": "Carlos Silva",
+  "telefone": "11999998888",
+  "email": "carlos.silva@email.com",
+  "interesse": "Apartamento no Jardins",
+  "status": "Novo",
+  "origem": "WhatsApp"
+}

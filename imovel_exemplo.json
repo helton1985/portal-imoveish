@@ -1,0 +1,14 @@
+
+{
+  "id": "IMV001",
+  "endereco": "Rua das Palmeiras, 123",
+  "bairro": "Jardins",
+  "cidade": "São Paulo",
+  "valor_venda": 850000,
+  "condominio": 750,
+  "iptu": 220,
+  "quartos": 3,
+  "banheiros": 2,
+  "vaga": 1,
+  "status": "disponível"
+}
